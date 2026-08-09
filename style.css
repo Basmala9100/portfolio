@@ -212,12 +212,15 @@ a {
     border: 1px solid var(--line);
     border-radius: 22px;
     background: var(--white);
-    transition: transform .2s ease, box-shadow .2s ease;
+    transition: background .25s ease, color .25s ease, transform .2s ease, box-shadow .25s ease;
 }
 
 .project:hover {
+    background: var(--ink);
+    color: white;
+    border-color: var(--ink);
     transform: translateY(-3px);
-    box-shadow: 0 16px 45px rgba(23,25,28,.06);
+    box-shadow: 0 16px 45px rgba(23, 25, 28, .12);
 }
 
 .project.featured {
