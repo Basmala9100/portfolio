@@ -17,8 +17,8 @@ I build practical AI and data-driven systems, starting from the problem and choo
 
 ## Featured Projects
 
-### AI Bilingual Call Center
-An Arabic/English AI customer-service platform combining conversational AI, RAG, voice interaction, authentication, conversation history, and an admin dashboard.
+### AI Call Center
+An English AI customer-service platform combining conversational AI, RAG, voice interaction, authentication, conversation history, and an admin dashboard.
 
 ### Doctor Schedule RAG
 A retrieval-augmented system designed to answer questions about doctors' schedules using updated documents.
